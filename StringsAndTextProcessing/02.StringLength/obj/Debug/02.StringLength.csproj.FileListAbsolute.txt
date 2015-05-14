@@ -1,0 +1,5 @@
+D:\SoftUni\Strings and Text Processing\StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe.config
+D:\SoftUni\Strings and Text Processing\StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.exe
+D:\SoftUni\Strings and Text Processing\StringsAndTextProcessing\02.StringLength\bin\Debug\02.StringLength.pdb
+D:\SoftUni\Strings and Text Processing\StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.exe
+D:\SoftUni\Strings and Text Processing\StringsAndTextProcessing\02.StringLength\obj\Debug\02.StringLength.pdb
